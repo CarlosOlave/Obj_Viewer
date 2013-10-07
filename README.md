@@ -46,7 +46,7 @@ http://localhost:8000/
 How It Works
 ==========
 
-Open the main.html page and simple drop an .obj file in the rectangular viewing area. Once the scene is loaded you 
-start changing rendering settings like light positioning, and color attritutes.
+Open the main.html page and simple drop an .obj file in the rectangular viewing area. Once the scene is loaded you can
+start changing rendering settings (light position, color, etc)
 
 
