@@ -19,14 +19,14 @@ If you use option 1, be aware that you may open yourself to some vulnerabilities
 regular web surfing. You may want to create a separate browser profile / shortcut used just for local development to 
 be safe.
 
-Chrome Support
+Option 1: Chrome
 ==========
 
  Start Chrome executable with a command line flag:
 
 chrome --allow-file-access-from-files
 
-Run local server
+Option 2: Run local server
 ==========
 
 The simplest probably is to use Python's built-in http server.
