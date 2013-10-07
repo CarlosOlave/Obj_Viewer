@@ -43,5 +43,10 @@ This will serve files from the current directory at localhost under port 8000:
 
 http://localhost:8000/
 
+How It Works
+==========
+
+Open the main.html page and simple drop an .obj file in the rectangular viewing area. Once the scene is loaded you 
+start changing rendering settings like light positioning, and color attritutes.
 
 
