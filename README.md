@@ -22,9 +22,9 @@ be safe.
 Chrome Support
 ==========
 
-Start Chrome executable with a command line flag:
+ Start Chrome executable with a command line flag:
 
-#chrome --allow-file-access-from-files
+chrome --allow-file-access-from-files
 
 Run local server
 ==========
@@ -33,10 +33,12 @@ The simplest probably is to use Python's built-in http server.
 
 If you have Python installed, it should be enough to run this from a command line:
 
-# Python 2.x
-python -m SimpleHTTPServer
-# Python 3.x
-python -m http.server
+ Python 2.x
+ python -m SimpleHTTPServer
+
+ Python 3.x
+ python -m http.server
+
 This will serve files from the current directory at localhost under port 8000:
 
 http://localhost:8000/
