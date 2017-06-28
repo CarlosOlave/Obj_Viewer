@@ -1,3 +1,5 @@
+UPDATE: May 2017 trying to port this over to react/redux ES6 :)
+
 Obj_Viewer
 ==========
 
